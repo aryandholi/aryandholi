@@ -30,32 +30,14 @@ Currently open to **internship and full-time roles** in Data Engineering, AI Eng
 
 ### Core Competencies
 
-<table>
-  <tr>
-    <td><strong>AI &amp; LLM Integration</strong></td>
-    <td>OpenAI API &nbsp;·&nbsp; Anthropic Claude &nbsp;·&nbsp; Google Gemini &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td><strong>ML &amp; NLP</strong></td>
-    <td>HuggingFace Transformers &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; Text Embeddings &nbsp;·&nbsp; Intent Classification</td>
-  </tr>
-  <tr>
-    <td><strong>Data Engineering</strong></td>
-    <td>Apache Kafka &nbsp;·&nbsp; Apache Spark (PySpark) &nbsp;·&nbsp; Spark Structured Streaming &nbsp;·&nbsp; ETL Pipelines</td>
-  </tr>
-  <tr>
-    <td><strong>Databases &amp; Storage</strong></td>
-    <td>PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Apache Cassandra &nbsp;·&nbsp; ChromaDB &nbsp;·&nbsp; FAISS</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud &amp; DevOps</strong></td>
-    <td>AWS (S3 &nbsp;·&nbsp; Glue &nbsp;·&nbsp; Athena) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; CI/CD</td>
-  </tr>
-  <tr>
-    <td><strong>Languages &amp; APIs</strong></td>
-    <td>Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; REST APIs</td>
-  </tr>
-</table>
+| Area | Technologies |
+|------|--------------|
+| **AI &amp; LLM Integration** | OpenAI API &nbsp;·&nbsp; Anthropic Claude &nbsp;·&nbsp; Google Gemini &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; Prompt Engineering |
+| **ML &amp; NLP** | HuggingFace Transformers &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; Text Embeddings &nbsp;·&nbsp; Intent Classification |
+| **Data Engineering** | Apache Kafka &nbsp;·&nbsp; Apache Spark (PySpark) &nbsp;·&nbsp; Spark Structured Streaming &nbsp;·&nbsp; ETL Pipelines |
+| **Databases &amp; Storage** | PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Apache Cassandra &nbsp;·&nbsp; ChromaDB &nbsp;·&nbsp; FAISS |
+| **Cloud &amp; DevOps** | AWS (S3 &nbsp;·&nbsp; Glue &nbsp;·&nbsp; Athena) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; CI/CD |
+| **Languages &amp; APIs** | Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; REST APIs |
 
 ---
 
@@ -79,22 +61,6 @@ An end-to-end AI-driven data pipeline that scrapes live property listings from Z
 > `Python` &nbsp; `Gemini / Claude API` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `YouTube API` &nbsp; `RSS`
 
 An autonomous content intelligence pipeline that aggregates YouTube transcripts and RSS articles, applies LLM-based summarization (Gemini 1.5 Pro / Claude 3.5 Sonnet), and delivers a personalized daily email digest. Stateful deduplication via PostgreSQL ensures no content is processed twice. Deployed on Render.
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aryandholi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=aryandholi&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandholi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
